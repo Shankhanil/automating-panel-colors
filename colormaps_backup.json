@@ -1,0 +1,672 @@
+{
+    "PANEL_FALLBACK": [
+        0,
+        0,
+        0
+    ],
+    "PANEL_FRONT": [
+        40,
+        92,
+        6
+    ],
+    "PANEL_LEFT": [
+        248,
+        78,
+        154
+    ],
+    "PANEL_RIGHT_FRONT": [
+        27,
+        110,
+        125
+    ],
+    "PANEL_RIGHT_BACK": [
+        9,
+        101,
+        140
+    ],
+    "PANEL_RIGHT_FRONT_UPPER": [
+        23,
+        82,
+        92
+    ],
+    "PANEL_RIGHT_FRONT_UPPER_OVER": [
+        56,
+        122,
+        133
+    ],
+    "PANEL_RIGHT_FRONT_UPPER_UNDER": [
+        20,
+        72,
+        126
+    ],
+    "PANEL_RIGHT_BOTTOM": [
+        135,
+        85,
+        119
+    ],
+    "PANEL_RIGHT_FRONT_BOTTOM": [
+        22,
+        89,
+        100
+    ],
+    "PANEL_RIGHT_FRONT_BOTTOM_OVER": [
+        146,
+        145,
+        195
+    ],
+    "PANEL_RIGHT_FRONT_BOTTOM_UNDER": [
+        118,
+        117,
+        149
+    ],
+    "PANEL_FRONT_UPPER": [
+        0,
+        0,
+        0
+    ],
+    "PANEL_FRONT_MIDDLE": [
+        108,
+        110,
+        165
+    ],
+    "PANEL_FRONT_BOTTOM": [
+        0,
+        0,
+        0
+    ],
+    "PANEL_FRONT_BOTTOM_OVER": [
+        55,
+        124,
+        99
+    ],
+    "PANEL_BACK_UPPER": [
+        0,
+        0,
+        0
+    ],
+    "PANEL_BACK_BOTTOM": [
+        0,
+        0,
+        0
+    ],
+    "PANEL_BACK_BOTTOM_OVER": [
+        56,
+        58,
+        118
+    ],
+    "PANEL_LEFT_BACK_UPPER_OVER": [
+        99,
+        89,
+        81
+    ],
+    "PANEL_LEFT_BACK_UPPER_UNDER": [
+        97,
+        108,
+        86
+    ],
+    "PANEL_RIGHT_BACK_UPPER": [
+        155,
+        89,
+        101
+    ],
+    "PANEL_LEFT_BACK_UPPER": [
+        123,
+        70,
+        80
+    ],
+    "PANEL_YOKE_BACK": [
+        0,
+        0,
+        0
+    ],
+    "PANEL_YOKE_LEFT_FRONT": [
+        117,
+        91,
+        12
+    ],
+    "PANEL_YOKE_LEFT_FRONT_OVER": [
+        111,
+        143,
+        90
+    ],
+    "PANEL_YOKE_LEFT_FRONT_UNDER": [
+        0,
+        0,
+        0
+    ],
+    "PANEL_YOKE_LEFT_BACK": [
+        145,
+        196,
+        154
+    ],
+    "PANEL_YOKE_LEFT_BACK_OVER": [
+        46,
+        108,
+        84
+    ],
+    "PANEL_GUN_FLAP_LEFT_OVER": [
+        69,
+        130,
+        141
+    ],
+    "PANEL_GUN_FLAP_RIGHT_OVER": [
+        39,
+        7,
+        104
+    ],
+    "PANEL_NECKLINE_LEFT_FRONT": [
+        0,
+        0,
+        0
+    ],
+    "PANEL_NECKLINE_RIGHT_FRONT": [
+        0,
+        0,
+        0
+    ],
+    "PANEL_ARMHOLE_RIGHT_FRONT": [
+        104,
+        92,
+        25
+    ],
+    "PANEL_ARMHOLE_LEFT_FRONT": [
+        92,
+        79,
+        6
+    ],
+    "PANEL": [
+        0,
+        0,
+        0
+    ],
+    "PANEL_OVER": [
+        59,
+        104,
+        87
+    ],
+    "PANEL_LEFT_FRONT_OVER": [
+        121,
+        74,
+        146
+    ],
+    "PANEL_LEFT_FRONT_UNDER": [
+        171,
+        114,
+        201
+    ],
+    "PANEL_LEFT_BACK_OVER": [
+        103,
+        90,
+        172
+    ],
+    "PANEL_LEFT_BACK_UNDER": [
+        66,
+        33,
+        83
+    ],
+    "PANEL_FRONT_UNDER": [
+        166,
+        217,
+        154
+    ],
+    "PANEL_FRONT_OVER": [
+        174,
+        210,
+        103
+    ],
+    "PANEL_BOTTOM": [
+        0,
+        0,
+        0
+    ],
+    "PANEL_BOTTOM_OVER": [
+        32,
+        73,
+        92
+    ],
+    "PANEL_RIGHT_OVER": [
+        124,
+        108,
+        136
+    ],
+    "PANEL_RIGHT_UNDER": [
+        61,
+        59,
+        82
+    ],
+    "PANEL_SIDE_SEAM_RIGHT_FRONT": [
+        121,
+        143,
+        139
+    ],
+    "PANEL_RIGHT_MIDDLE_FRONT": [
+        79,
+        100,
+        96
+    ],
+    "PANEL_RIGHT_UPPER": [
+        148,
+        107,
+        176
+    ],
+    "PANEL_BOW": [
+        0,
+        0,
+        0
+    ],
+    "PANEL_WAISTBAND_OVER": [
+        79,
+        123,
+        137
+    ],
+    "PANEL_WAISTBAND_RIGHT_OVER": [
+        60,
+        88,
+        64
+    ],
+    "PANEL_WAISTBAND": [
+        0,
+        0,
+        0
+    ],
+    "PANEL_WAISTBAND_FRONT_OVER": [
+        75,
+        111,
+        122
+    ],
+    "PANEL_WAISTBAND_BACK_OVER": [
+        52,
+        116,
+        93
+    ],
+    "PANEL_WAISTBAND_LEFT_FRONT_OVER": [
+        40,
+        89,
+        27
+    ],
+    "PANEL_WAISTBAND_LEFT_FRONT_UNDER": [
+        62,
+        104,
+        51
+    ],
+    "PANEL_WAISTBAND_LEFT_BACK_OVER": [
+        69,
+        61,
+        105
+    ],
+    "PANEL_WAISTBAND_LEFT_BACK_UNDER": [
+        110,
+        102,
+        150
+    ],
+    "PANEL_WAISTBELT_OVER": [
+        81,
+        72,
+        41
+    ],
+    "PANEL_TIER01_FRONT_OVER": [
+        209,
+        82,
+        151
+    ],
+    "PANEL_TIER02_FRONT_OVER": [
+        173,
+        89,
+        135
+    ],
+    "PANEL_TIER03_FRONT_OVER": [
+        0,
+        0,
+        0
+    ],
+    "PANEL_TIER04_FRONT_OVER": [
+        0,
+        0,
+        0
+    ],
+    "PANEL_TIER05_FRONT_OVER": [
+        0,
+        0,
+        0
+    ],
+    "PANEL_TIER07_FRONT_OVER": [
+        0,
+        0,
+        0
+    ],
+    "PANEL_TIER08_FRONT_OVER": [
+        0,
+        0,
+        0
+    ],
+    "PANEL_RIGHT_MIDDLE": [
+        40,
+        104,
+        210
+    ],
+    "PANEL_RIGHT_BOTTOM_OVER": [
+        0,
+        0,
+        0
+    ],
+    "PANEL_RIGHT_BOTTOM_UNDER": [
+        0,
+        0,
+        0
+    ],
+    "PANEL_LEFT_BACK_BOTTOM_OVER": [
+        0,
+        0,
+        0
+    ],
+    "PANEL_LEFT_BACK_BOTTOM_UNDER": [
+        0,
+        0,
+        0
+    ],
+    "PANEL_PLACKET_RIGHT_OVER": [
+        48,
+        231,
+        164
+    ],
+    "PANEL_PLACKET_RIGHT_UNDER": [
+        29,
+        207,
+        142
+    ],
+    "PANEL_PLACKET_RIGHT": [
+        0,
+        0,
+        0
+    ],
+    "PANEL_RUFFLE_FRONT": [
+        97,
+        54,
+        16
+    ],
+    "PANEL_POCKET_FRONT": [
+        0,
+        0,
+        0
+    ],
+    "PANEL_POCKET_FLAP_RIGHT_FRONT": [
+        21,
+        133,
+        32
+    ],
+    "PANEL_POCKET_FLAP_RIGHT_BACK": [
+        159,
+        117,
+        180
+    ],
+    "PANEL_POCKET_FLAP_RIGHT_BACK_OVER": [
+        173,
+        243,
+        161
+    ],
+    "PANEL_POCKET_FLAP_RIGHT_BACK_UNDER": [
+        121,
+        215,
+        105
+    ],
+    "PANEL_POCKET_LEFT_FRONT": [
+        117,
+        61,
+        12
+    ],
+    "PANEL_POCKET_RIGHT_FRONT_UPPER": [
+        96,
+        85,
+        76
+    ],
+    "PANEL_POCKET_RIGHT_FRONT_BOTTOM": [
+        103,
+        85,
+        70
+    ],
+    "PANEL_POCKET_FLAP_LEFT_FRONT_OVER": [
+        186,
+        131,
+        82
+    ],
+    "PANEL_POCKET_FLAP_LEFT_FRONT_UNDER": [
+        85,
+        61,
+        40
+    ],
+    "PANEL_POCKET_LEFT_BACK": [
+        73,
+        148,
+        140
+    ],
+    "PANEL_WATCH_POCKET_FRONT_RIGHT_OVER": [
+        0,
+        0,
+        0
+    ],
+    "PANEL_POCKET_FLAP_RIGHT_FRONT_UPPER": [
+        42,
+        36,
+        30
+    ],
+    "PANEL_POCKET_FLAP_RIGHT_BACK_UPPER": [
+        155,
+        60,
+        244
+    ],
+    "PANEL_POCKET_FLAP_RIGHT_BACK_BOTTOM": [
+        129,
+        41,
+        211
+    ],
+    "PANEL_POCKET_FLAP_RIGHT_FRONT_UPPER_OVER": [
+        60,
+        132,
+        140
+    ],
+    "PANEL_POCKET_FLAP_RIGHT_FRONT_UPPER_UNDER": [
+        38,
+        97,
+        104
+    ],
+    "PANEL_POCKET_FLAP_RIGHT_FRONT_BOTTOM_OVER": [
+        94,
+        120,
+        69
+    ],
+    "PANEL_POCKET_FLAP_LEFT_FRONT_BOTTOM_OVER": [
+        87,
+        84,
+        51
+    ],
+    "PANEL_FLY_RIGHT_FRONT_OVER": [
+        56,
+        208,
+        235
+    ],
+    "PANEL_BELT_LOOP_SIDE_RIGHT_FRONT ": [
+        237,
+        79,
+        124
+    ],
+    "PANEL_BELT_LOOP_SIDE_LEFT_FRONT ": [
+        168,
+        76,
+        102
+    ],
+    "PANEL_BELT_LOOP_SIDE_RIGHT_FRONT_OVER": [
+        117,
+        26,
+        164
+    ],
+    "PANEL_BELT_LOOP_SIDE_RIGHT_FRONT_UNDER": [
+        98,
+        20,
+        139
+    ],
+    "PANEL_BELT_LOOP_SIDE_RIGHT_BACK_OVER": [
+        139,
+        20,
+        135
+    ],
+    "PANEL_BELT_LOOP_SIDE_RIGHT_BACK_UNDER": [
+        164,
+        32,
+        159
+    ],
+    "PANEL_BELT_LOOP_CENTER_RIGHT_FRONT ": [
+        0,
+        0,
+        0
+    ],
+    "PANEL_BELT_LOOP_CENTER_LEFT_FRONT ": [
+        0,
+        0,
+        0
+    ],
+    "PANEL_BELT_LOOP_CENTER_BACK": [
+        0,
+        0,
+        0
+    ],
+    "PANEL_SIDE_POCKET_FRONT_LEFT": [
+        158,
+        63,
+        119
+    ],
+    "PANEL_SIDE_POCKET_LINNING_FRONT_LEFT_OVER ": [
+        133,
+        57,
+        79
+    ],
+    "PANEL_SIDE_POCKET_LINNING_FRONT_RIGHT_OVER ": [
+        135,
+        38,
+        95
+    ],
+    "PANEL_LEFT_CROTCH_FRONT_UNDER": [
+        52,
+        136,
+        30
+    ],
+    "PANEL_LEFT_BACK_MIDDLE_OVER": [
+        97,
+        162,
+        58
+    ],
+    "PANEL_LEFT_MIDDLE_BACK_UNDER": [
+        86,
+        150,
+        48
+    ],
+    "PANEL_EPAULETTES_LEFT": [
+        23,
+        92,
+        35
+    ],
+    "PANEL_EPAULETTES_LEFT_OVER": [
+        157,
+        128,
+        91
+    ],
+    "PANEL_EPAULETTES_LEFT_UNDER": [
+        121,
+        106,
+        86
+    ],
+    "PANEL_HOOD_RIGHT": [
+        135,
+        102,
+        60
+    ],
+    "PANEL_HOOD_RIGHT_OVER": [
+        43,
+        117,
+        14
+    ],
+    "PANEL_HOOD_RIGHT_UNDER": [
+        52,
+        104,
+        85
+    ],
+    "PANEL_HOOD_CENTER": [
+        0,
+        0,
+        0
+    ],
+    "PANEL_FLAP_CENTER_FRONT_RIGHT_OVER": [
+        95,
+        105,
+        69
+    ],
+    "PANEL_FLAP_CENTER_FRONT_LEFT_OVER": [
+        0,
+        0,
+        0
+    ],
+    "PANEL_CENTER_RIGHT_FRONT": [
+        87,
+        146,
+        157
+    ],
+    "PANEL_CENTER_RIGHT_BACK": [
+        172,
+        3,
+        154
+    ],
+    "PANEL_CENTER_FRONT_UPPER": [
+        0,
+        0,
+        0
+    ],
+    "PANEL_CENTER_FRONT_UPPER_OVER": [
+        72,
+        106,
+        112
+    ],
+    "PANEL_CENTER_RIGHT_FRONT_UPPER": [
+        173,
+        95,
+        95
+    ],
+    "PANEL_CENTER_BACK_UPPER": [
+        0,
+        0,
+        0
+    ],
+    "PANEL_CENTER_LEFT_BACK_UPPER": [
+        66,
+        68,
+        142
+    ],
+    "PANEL_CENTER_BACK": [
+        0,
+        0,
+        0
+    ],
+    "PANEL_CENTER_BACK_BOTTOM": [
+        0,
+        0,
+        0
+    ],
+    "PANEL_CENTER_RIGHT_FRONT_OVER": [
+        123,
+        73,
+        120
+    ],
+    "PANEL_CENTER_RIGHT_FRONT_UNDER": [
+        61,
+        58,
+        95
+    ],
+    "PANEL_CENTER_FRONT_OVER": [
+        61,
+        84,
+        132
+    ],
+    "PANEL_CENTER_BACK_OVER": [
+        36,
+        57,
+        99
+    ]
+}
